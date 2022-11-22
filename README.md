@@ -1,2 +1,2 @@
-# poblic_repo
+# public_repo
 General directory
